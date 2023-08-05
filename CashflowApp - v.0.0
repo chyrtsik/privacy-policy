@@ -1,0 +1,3 @@
+This is the privacy police of the QA version of the cashflow app. 
+In its current stage this application does not collect and does not store any user private information.
+Users (testers) can submit "expenses", which are not treated private and are used for testing purposes only.
